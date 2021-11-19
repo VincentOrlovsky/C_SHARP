@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6arIZAuFG1Beg+/rfZXgknqQNpPgnZ+udIn+ZLL8oYP5Ai7RIvLXnw00rkhNt5HAbGg7hLnBI9NF66nz2TC2dQ==",
+  "success": true,
+  "projectFilePath": "D:\\Pracovná plocha\\PVJC\\Game\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\merlincore\\2.4.2\\merlincore.2.4.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\tiledsharp\\1.0.1\\tiledsharp.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+﻿name;spelltype;animationpath;animationwidth;animationheight;effect
+fireball;projectile;resources/sprites/Spells/fireball.png;64;32;damage-40
+frostball;projectile;resources/sprites/Spells/frostball.png;64;32;dot-40
+healspell;selfcast;resources/sprites/Spells/frostball.png;64;32;heal-40

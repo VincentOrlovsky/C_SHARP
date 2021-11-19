@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="50" height="37" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="19">
+ <tileset firstgid="1" name="tileset_basic" tilewidth="16" tileheight="16" tilecount="960" columns="32">
+  <image source="tilesets/tileset_basic.png" width="512" height="480"/>
+ </tileset>
+ <layer id="4" name="background" width="50" height="37">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2ZyU7cQBCGe2wuJIRwDXABcklAwDXLayDxIki8CBJLXgPIwo1c2HJnuYVLWHNl4MA/wr+mUpTttqdtg5TDp6rutnqquqq6LE/ccq4PtBIiEIvxU2BMIOdpa8f+CfDWeGbsiTGe2GrNdezfds79BIeRc0fgGJxE3flfgeB+K/jNVbAGvrR6H3NfyhvY3ga34A78xtwpuFRcJVwbepbkft/w29/BD7DV6n2s/XgTOzcMRsBo3M27UH5wv0NwBI7BSYCx9uMDbP8IPoHPcTfvXikGE14bepbkfjegDW7BXYCx9oP1r++BUPGoqz5Y//oeeG71ceAe54LOqV7yivHV8dY9S651ZNH6ODDOUMeil3jIPiXjrXuDXJsoUR9Vx4PPyvMMcX/VHQ8+K88zxP3VlB9V948yecU7SNcn5628qrp/lIkH7db1yfmm4lHUD9qt3zE5n1cfVcWjbF7pd0ydZ1bf8OknPuOQeaXfMXWeWX3Dp5/4jEPGQ79jZtW5NUcbivakocDxSMsZqz6sOfpd9C7/68LWeVrOZPlh+R1lnEGeHzyLut5LqFt+yznfvKL99L+ufk6d57iD+20X7IF98V3ANx76e0ndfvAc/8D2M3AOLqLHtZLnh45p3XnFc+zH/fYCvAQD4ruAb15ZftQZD/7uO9j+HkyCqTj9jvCNh9WDQ/TZqu+rvL6q74+ifZZ5nuZH3n1V1o8NzG26Byl1LfOeo85z9ennZWvOqo85YcMimBfSWpO65Qf39ennZWvOiseCsGE5sZHSWtO6pik/loStXxMbKa01qc8bsM7rzqt194C0l9Jak/qiQV6dVxUPy1YJ163YWDRV5+vuX1/S/Mrzl3DfGTCdSOrTaj5Lal3uNSvsl33s//9qzf+vdg92AB6C6BwAAA==
+  </data>
+ </layer>
+ <objectgroup id="6" name="objects">
+  <object id="5" name="WoodenPressurePlate" type="PressurePlate" x="722" y="248.167" width="32" height="6"/>
+  <object id="2" name="ChainDoorDown" type="Door" x="496" y="192" width="16" height="64"/>
+  <object id="4" name="ChainDoorUp" type="Door" x="288.667" y="350.667" width="16" height="64"/>
+  <object id="6" name="Lever1" type="Lever" x="597.333" y="236.333" width="32" height="16"/>
+  <object id="8" name="ManaPotion" type="ManaPotion" x="197.334" y="525" width="8" height="12"/>
+  <object id="9" name="HealingPotion" type="HealingPotion" x="524.334" y="108.333" width="8" height="12"/>
+  <object id="10" name="Poison" type="Poison" x="158.333" y="526.667" width="8" height="12"/>
+  <object id="13" name="Key" type="Key" x="143.272" y="362.474" width="20" height="20"/>
+  <object id="11" name="GreenPortal" type="Portal" x="671.435" y="490.113" width="64" height="64"/>
+  <object id="12" name="Portal" type="Portal" x="271.774" y="482.705" width="64" height="64"/>
+  <object id="7" name="Box1" type="Box" x="574.031" y="91.6357" width="32" height="32"/>
+  <object id="14" name="WarpIn" type="WarpPortal" x="43.697" y="504.186" width="32" height="48"/>
+  <object id="15" name="WarpOut" type="WarpPortal" x="453.358" y="73.1322" width="32" height="48"/>
+  <object id="18" name="ManaRock" type="ManaRock" x="270.167" y="136" width="64" height="64"/>
+  <object id="1" name="Enemy" type="Enemy" x="63.648" y="359.037" width="33" height="47"/>
+  <object id="3" name="Player" type="Player" x="290.622" y="496.683" width="27" height="47"/>
+  <object id="16" name="Enemy" type="Enemy" x="450.833" y="492.5" width="33" height="47"/>
+ </objectgroup>
+ <layer id="5" name="walls" width="50" height="37" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu1YCw7CIAxdwjmnu8g+F0G9iJ+jyZI1Yh0Uxisuxpc00q0UHrQd2JqmOTjpF2kLpcRPTl/fjuY/sN9SKfGT25d4DItw0HsU0P64374Sj9A4pajN478fcXAepHNBj4fG7PO4Uq+4oKC1H7PPMRJXaNA485iTedd5vfXtJIxCfqBh3RgnJ2cnF/OuU9uaTzsJUp7XQMp6S9gDj5T1lrAHHgggeMRyFxEzKUDwIB9ruYuImZw5IHikPteAJg/kHSB0tqfYpXMHvUPyoOdWSfzYHTwetjDPU5/nrkdO3z3UK0Rsl/jw93jKrFeoNUB/B3PrbKhm58bYt7/nqJrt82h/hMfWulsCDR7fiCt0zeb38/mu2wl6SrtbROKBrleSX19PaU/CfHiN3nrG1I6rWmde4qF1Nr07n4+KPLT2g3JEG9r7UetO+M+PNPxKftTiQfOX6jhSD7VjdrH/Hn2bq5Obea2fph5qx+xC77jNE8lqQe7oHAAA
+  </data>
+ </layer>
+</map>
