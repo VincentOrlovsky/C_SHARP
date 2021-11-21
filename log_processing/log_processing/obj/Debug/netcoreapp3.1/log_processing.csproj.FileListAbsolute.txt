@@ -11,15 +11,3 @@ C:\Users\Asus\Desktop\siemens\log_processing\log_processing\obj\Debug\netcoreapp
 C:\Users\Asus\Desktop\siemens\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.dll
 C:\Users\Asus\Desktop\siemens\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.pdb
 C:\Users\Asus\Desktop\siemens\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.genruntimeconfig.cache
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\bin\Debug\netcoreapp3.1\log_processing.exe
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\bin\Debug\netcoreapp3.1\log_processing.deps.json
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\bin\Debug\netcoreapp3.1\log_processing.runtimeconfig.json
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\bin\Debug\netcoreapp3.1\log_processing.runtimeconfig.dev.json
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\bin\Debug\netcoreapp3.1\log_processing.dll
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\bin\Debug\netcoreapp3.1\log_processing.pdb
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.AssemblyInfoInputs.cache
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.AssemblyInfo.cs
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.csproj.CoreCompileInputs.cache
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.dll
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.pdb
-C:\Users\Asus\Desktop\siemens\C_SHARP\log_processing\log_processing\obj\Debug\netcoreapp3.1\log_processing.genruntimeconfig.cache
