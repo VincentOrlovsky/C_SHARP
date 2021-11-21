@@ -21,10 +21,9 @@ namespace log_processing
             if (args.Length > 2) { throw new ArgumentException("Too many arguments. Try \"-h\" for help."); }
             foreach (string arg in args)
             {
-                if (!(arg.Contains("-"))) { path_log = arg; }
-                else if (arg == "-h") { Console.Write("Log processing v1.0\nProgramme for log file processing.\nUSAGE: log_processing.exe PATH_TO_LOG_FILE   (output is 5 methotds which lasts longest)\n*OR* log_processing.exe PATH_TO_LOG_FILE -a (all)   (output of methods and stats)\n*OR* log_processing.exe -h (help)\n\nby Vincent Orlovsky"); return; }
+                if (arg == "-h") { Console.Write("Log processing v1.0\nProgramme for log file processing.\nUSAGE: log_processing.exe PATH_TO_LOG_FILE   (output is 5 methotds which lasts longest)\n*OR* log_processing.exe PATH_TO_LOG_FILE -a (all)   (output of methods and stats)\n*OR* log_processing.exe -h (help)\n\nby Vincent Orlovsky"); return; }
                 else if (arg == "-a") { arg_all = true; }
-                else { throw new ArgumentException("Unknown parameter \"{0}\". Try \"-h\" for help.", arg); }
+                else { path_log = arg; }
             }
             if (String.IsNullOrEmpty(path_log)) { throw new ArgumentException("Missing argument! $ ./log_processing.exe PATH_TO_LOG_FILE ..."); }
         
